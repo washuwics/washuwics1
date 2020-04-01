@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to WashU WiCS
 
-You can use the [editor on GitHub](https://github.com/washuwics/washuwics.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Washington University Women in Computer Science’s mission is to create a welcoming and supportive community for women in computing, bolster professional development by providing networking and mentorship opportunities, and inspire future generations of women by giving back to the greater St. Louis community.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### GHC Application!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- The Grace Hopper Celebration (GHC) is a conference designed to bring the research and career interests of women in technology into the spotlight and is the largest gathering of women in computing. The conference consists of a combination of technical sessions and career sessions that fosters mentorship as well as networking. 
 
-```markdown
-Syntax highlighted code block
+- This year, GHC will be Tuesday, September 29th, to Friday, October 2nd, in Orlando, FL. For more information, please visit the [AnitaB.org website](https://ghc.anitab.org/). WiCS will be sponsoring members to go to GHC on a scholarship!
 
-# Header 1
-## Header 2
-### Header 3
+- The WiCS GHC scholarship application is now open! The application will be open until **Wednesday, April 22nd at 11:59 P.M. CST**. If you have any questions, please contact Katie Lund (kathleen.lund@wustl.edu). 
 
-- Bulleted
-- List
+- **Find the application [HERE](https://docs.google.com/forms/d/e/1FAIpQLSc3JYORXnNlGl3bTe7rJKN0Wf7onl-j6sOzRSCYw6Z8wkStSA/viewform)!**
 
-1. Numbered
-2. List
+### GHC FAQ
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/washuwics/washuwics.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- If you have more questions about GHC or the application, take a look at the FAQ document **[HERE](https://docs.google.com/document/d/1ffBfKiZRechLM7BKk7BLEN716L6DTOvKGBE7l4zswmU/edit)!**
