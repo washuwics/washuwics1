@@ -1,5 +1,7 @@
 ## Welcome to WashU WiCS
 
+![WashU WiCS](https://drive.google.com/open?id=1tBSjzfCi1H9Tg_mSRz2eaEvF5oY3cmc0)
+
 Washington University Women in Computer Science’s mission is to create a welcoming and supportive community for women in computing, bolster professional development by providing networking and mentorship opportunities, and inspire future generations of women by giving back to the greater St. Louis community.
 
 
@@ -16,3 +18,7 @@ Washington University Women in Computer Science’s mission is to create a welco
 ### GHC FAQ
 
 - If you have more questions about GHC or the application, take a look at the FAQ document **[HERE](https://docs.google.com/document/d/1ffBfKiZRechLM7BKk7BLEN716L6DTOvKGBE7l4zswmU/edit)!**
+
+### GHC Zoom Panel
+
+- If you were unable to attend the GHC Zoom Panel, view the recording **[HERE](https://drive.google.com/open?id=1M2t8wtYsM3W1l9eKdHDsu95HJ32WDJ5u)!** Panel content starts at around the 6 minute mark.
