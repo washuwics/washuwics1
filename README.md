@@ -4,6 +4,8 @@
 
 Washington University Women in Computer Science’s mission is to create a welcoming and supportive community for women in computing, bolster professional development by providing networking and mentorship opportunities, and inspire future generations of women by giving back to the greater St. Louis community.
 
+![WashU WiCS](wicspic.jpg)
+
 
 ### What We Do
 
